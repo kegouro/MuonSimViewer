@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=4.0
+Name=MuonSimViewer
+Comment=COMSOL Muon Transport Simulation Analyzer — CCTVal/KIT
+Exec=/usr/local/bin/muonsimviewer %f
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=Science;Physics;
+MimeType=text/csv;
