@@ -1,4 +1,4 @@
-================================================================================
+
                   MUONSIMVIEWER v4.0 - README BILINGÜE COMPLETO
               Visualizador 3D de Trayectorias para Simulaciones COMSOL
                                Por José Labarca
