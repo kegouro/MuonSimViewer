@@ -432,3 +432,7 @@ Me encantaría saber que este prototipo que construí en una semana sigue ayudan
 
 Este README fue hecho el 27 de abril de 2026 a las 00:29 (hora de Chile).
 Versión: 1.0 - para MuonSimViewer v4.0
+
+---
+
+<sub>Parte del **[Pharos Project](https://kegouro.github.io)** — infraestructura científica y educativa sin barreras de entrada. · José Labarca Baeza</sub>
