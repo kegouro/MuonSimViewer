@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo."
+title: "MuonSimViewer — visualizador de trayectorias de muones"
+abstract: "Visualizador de trayectorias de muones para datos COMSOL. Predecesor de BeamLab Studio."
+type: software
+authors:
+  - family-names: "Labarca Baeza"
+    given-names: "José"
+    orcid: "https://orcid.org/0009-0006-8890-4048"
+    affiliation: "Universidad Técnica Federico Santa María, Valparaíso, Chile"
+repository-code: "https://github.com/kegouro/MuonSimViewer"
+url: "https://kegouro.github.io"
+license: MIT
+keywords:
+  - muon
+  - COMSOL
+  - beam trajectories
+  - visualization
+  - C++
